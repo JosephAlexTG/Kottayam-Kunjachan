@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.jpg" alt="Eva Maria Logo">
+  <img src="https://te.legra.ph/file/043d54a20e8fd9b5e08e4.jpg">
 </p>
 <h1 align="center">
   <b>Eva Maria Bot</b>
