@@ -7,6 +7,9 @@
 
 [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/JosephAlexTG/Kottayam-Kunjachan)   
 
+[![Contributors](https://img.shields.io/github/contributors/EvamariaTG/EvaMaria?style=flat-square&color=green)](https://github.com/EvamariaTG/EvaMaria/graphs/contributors)
+
+
 ## Features
 
 - [x] Auto Filter
@@ -91,4 +94,7 @@ python3 bot.py
 • /batch - to create link for multiple posts
 • /link - to create link for one post
 ```
-[Creator](https://t.me/Joseph_Alex_TG)
+
+
+
+
