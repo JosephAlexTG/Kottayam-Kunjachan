@@ -47,7 +47,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://telegram.dog/XTZ_HerokuBot?start=fc163950-2d00-4c34-925a-e14d3ee3eae5">
+<a href="https://heroku.com/deploy?template=https://github.com/JosephAlexTG/Kottayam-Kunjachan">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
