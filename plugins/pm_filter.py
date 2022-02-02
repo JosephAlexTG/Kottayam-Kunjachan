@@ -427,6 +427,9 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('Connection', callback_data='coct'),
             InlineKeyboardButton('Extra Mods', callback_data='extra')
         ], [
+            InlinekeyboardButton('Screenshot', callback_data='screenshot')
+            InlinekeyboardButton('Screenshot', url='https://t.me/EDIT_REPO')
+        ], [
             InlineKeyboardButton('🏠 Home', callback_data='start'),
             InlineKeyboardButton('🔮 Status', callback_data='stats')
         ]]
@@ -438,7 +441,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "about":
         buttons = [[
-            InlineKeyboardButton('🤖 Updates', url='https://t.me/EDIT_REPO),
+            InlineKeyboardButton('🤖 Updates', url='https://t.me/EDIT_REPO'),
             InlineKeyboardButton('♥️ Source', callback_data='source')
         ], [
             InlineKeyboardButton('🏠 Home', callback_data='start'),
