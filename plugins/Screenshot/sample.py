@@ -1,12 +1,3 @@
-from pyrogram import filters
-
-from bot.utils import ProcessTypes
-from bot.screenshotbot import ScreenShotBot
-from bot.processes import ProcessFactory
-from bot.messages import Messages as ms
-from bot.config import Config
-
-
 @ScreenShotBot.on_callback_query(
     filters.create(lambda _, __, query: query.data.startswith("smpl"))
 )
